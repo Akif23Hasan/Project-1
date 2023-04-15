@@ -1,10 +1,10 @@
-#Project 1 - Melbourne Property Market Analysis
+# Project 1 - Melbourne Property Market Analysis
 
 Looking to crack the code of the Melbourne property market? Well, look no further! Our in-depth analysis will take you on a wild ride through the twists and turns of this red-hot market, exploring everything from the impact of location to the allure of a cute little courtyard. So buckle up, grab your coffee (or wine, depending on the time of day), and get ready to uncover the driving forces that make Melbourne real estate one of the most unpredictable rides around.
 
 This analysis aims to explore and understand the Melbourne property market through various perspectives and factors that affect property prices. The analysis is conducted on a dataset obtained from Kaggle, which includes property sales data from the Melbourne city area.
 
-##Research Questions
+## Research Questions
 1) How has the Melbourne property market evolved over time based on the overall trends and patterns observed in the given dataset?
 2) Location, Location, Location: Analysing the Impact of Suburb, Region, and Distance to CBD on Melbourne Property Prices.
 3) Price vs Charaterics: Investigating the Relationship Between Property Size and Sale Price in the Melbourne Real Estate Market.
@@ -37,7 +37,7 @@ The analysis requires the following libraries:
 16) Sklearn.datasets
 17) Scipy.stats
 
-##Instructions for running the analysis:
+## Instructions for running the analysis:
 
 1) Clone the entire repository onto your local machine.
 2) Extract the victoria.json.zip file located in the "Resources" folder. This file contains the geojson data required for visualizations in the notebook.
