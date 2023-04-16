@@ -51,7 +51,7 @@ The analysis requires the following libraries:
   * To view the choropleth interactive map components, please note that these files are quite large (60Mb) and as such, cannot be uploaded to Github. Therefore, when running the Jupyter file on your local machine, please ensure that you uncomment the code containing fig1.show(), fig2.show(), and fig3.show() to view these maps. Alternatively, these maps have been extracted and uploaded to https://bootcamp-5c04a.web.app/?fbclid=IwAR2GTy10tnQ_sjSKAZgUQKfPtniiMgDcySIMybEczez5mRTIuz_guV38F8s, for your convenience.
 
 ## Results
-The results from the analysis are caputured within the PowerPoint PFD slides added into the repository.
+The results from the analysis are caputured within the PowerPoint PDF slides added into the repository.
 
 
 
