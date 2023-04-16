@@ -45,7 +45,8 @@ The analysis requires the following libraries:
 4) Ensure that all the necessary dependencies are installed on your machine. You can install them by running !pip install <library> in a code cell in the notebook.
 5) Run the notebook by selecting Kernel -> Restart & Run All in the menu bar.
 
-Note: The victoria.json.zip file needs to be extracted before running the notebook. If you encounter errors related to missing data, please ensure that the file has been properly extracted.
+**Note**: The victoria.json.zip file needs to be extracted before running the notebook. If you encounter errors related to missing data, please ensure that the file has been properly extracted.
+  For choropleth interactive map parts, when you run the Jupyter file in your local machine please uncomment the code fig1.show(), fig2.show(), fig3.show() to see the those maps because they are too heavy (60Mb) to be uploaded to Github. I also extract those maps to a website: https://bootcamp-5c04a.web.app/?fbclid=IwAR2GTy10tnQ_sjSKAZgUQKfPtniiMgDcySIMybEczez5mRTIuz_guV38F8s
 
 ## Results
 The results from the analysis are caputured within the PowerPoint PFD slides added into the repository.
