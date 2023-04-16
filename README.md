@@ -14,28 +14,29 @@ This analysis aims to explore and understand the Melbourne property market throu
 ## Data Source
 1) https://www.kaggle.com/datasets/amalab182/property-salesmelbourne-city?select=Property+Sales+of+Melbourne+City.csv
 2) https://tradingeconomics.com/australia/interest-rate
-3) ttps://www.realestate.com.au/news/australias-sought-suburbs-2016/
+3) https://www.realestate.com.au/news/australias-sought-suburbs-2016/
 4) Geoapify
 
 ## Requirements
 The analysis requires the following libraries:
-1) Pandas
-2) CSV
-3) Matplotlib.pyplot
-4) Numpy
-5) Requests
-6) Time
-7) Scipy.stats
-8) Pathlib
-9) Hvplot.pandas
-10) Pprint
-11) Plotly.graph_objects
-12) Random
-13) Scipy.optimize
-14) Seaborn
-15) Plotly.express
-16) Sklearn.datasets
-17) Scipy.stats
+1) Python v3.10.9
+2) Pandas
+3) CSV
+4) Matplotlib.pyplot
+5) Numpy
+6) Requests
+7) Time
+8) Scipy.stats
+9) Pathlib
+10) Hvplot.pandas
+11) Pprint
+12) Plotly.graph_objects
+13) Random
+14) Scipy.optimize
+15) Seaborn
+16) Plotly.express
+17) Sklearn.datasets
+18) Scipy.stats
 
 ## Instructions for running the analysis:
 
@@ -45,8 +46,9 @@ The analysis requires the following libraries:
 4) Ensure that all the necessary dependencies are installed on your machine. You can install them by running !pip install <library> in a code cell in the notebook.
 5) Run the notebook by selecting Kernel -> Restart & Run All in the menu bar.
 
-**Note**: The victoria.json.zip file needs to be extracted before running the notebook. If you encounter errors related to missing data, please ensure that the file has been properly extracted.
-  For choropleth interactive map parts, when you run the Jupyter file in your local machine please uncomment the code fig1.show(), fig2.show(), fig3.show() to see the those maps because they are too heavy (60Mb) to be uploaded to Github. I also extract those maps to a website: https://bootcamp-5c04a.web.app/?fbclid=IwAR2GTy10tnQ_sjSKAZgUQKfPtniiMgDcySIMybEczez5mRTIuz_guV38F8s
+**Note**: 
+  * The victoria.json.zip file needs to be extracted before running the notebook. If you encounter errors related to missing data, please ensure that the file has been properly extracted.
+  * To view the choropleth interactive map components, please note that these files are quite large (60Mb) and as such, cannot be uploaded to Github. Therefore, when running the Jupyter file on your local machine, please ensure that you uncomment the code containing fig1.show(), fig2.show(), and fig3.show() to view these maps. Alternatively, these maps have been extracted and uploaded to https://bootcamp-5c04a.web.app/?fbclid=IwAR2GTy10tnQ_sjSKAZgUQKfPtniiMgDcySIMybEczez5mRTIuz_guV38F8s, for your convenience.
 
 ## Results
 The results from the analysis are caputured within the PowerPoint PFD slides added into the repository.
